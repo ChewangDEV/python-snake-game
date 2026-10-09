@@ -56,7 +56,6 @@ python main.py
 
 ```text
 python-snake-game/
-│
 ├── main.py
 ├── snake.py
 ├── food.py

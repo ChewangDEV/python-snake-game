@@ -63,6 +63,12 @@ python-snake-game/
 └── README.md
 ```
 
+## Screenshot
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9a33e970-a81a-4c67-8909-06ac5d76887b" />
+
+
+
 ## 🎓 Learning Experience
 
 This is a course-based learning project that helped me become more comfortable with Python classes, objects, inheritance, and game logic.
